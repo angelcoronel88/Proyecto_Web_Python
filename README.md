@@ -2,15 +2,15 @@
 
 #Proyecto final - Introduccion a python Developer Junior - Turno Mañana
 
+(slide.jpg)
 
-# Integrantes:  Coronel Angel Rene  //  Jara Nahir //  Aldrovandi Romina
-# Coronel Angel Rene
-# Jara Nahir
-# Aldrovandi Romina
+#Integrantes: Coronel Angel Rene // Jara Nahir // Aldrovandi Romina
 
-Poryecto:
+Profesor: Tevez Jorge
+
+Proyecto:
 *Cargar 7 libros 
 *Cargar 7 autores
 *Cargar 7 editores
 
-Profesor: Tevez Jorge
+
