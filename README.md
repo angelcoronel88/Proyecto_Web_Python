@@ -2,7 +2,9 @@
 
 #Proyecto final - Introduccion a python Developer Junior - Turno Mañana
 
-(slide.jpg)
+https://github.com/angelcoronel88/master/nuevo1/slide1.jpg
+
+(nuevo1/slide1.jpg)
 
 #Integrantes: Coronel Angel Rene // Jara Nahir // Aldrovandi Romina
 
